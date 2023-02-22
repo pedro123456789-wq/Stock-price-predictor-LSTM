@@ -1,5 +1,5 @@
 # Stock Price Predictor 
-## Stock price predictor for the AAPL stock using a LSTM model
+Stock price predictor for the AAPL stock using a LSTM model
 
 
 # AAPL stock trader using LSTM network
